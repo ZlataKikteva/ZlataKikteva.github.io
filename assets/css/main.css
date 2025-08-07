@@ -35,6 +35,7 @@ body {
 
 ol, ul {
 	list-style: none;
+	margin: 0.25em 0;
 }
 
 blockquote, q {
